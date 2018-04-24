@@ -1,8 +1,6 @@
 # **Belajar**
-<<<<<<< HEAD
-
+current change
 A Git learning environment. asdsad
-=======
+incoming change
 Yacho's Fork
 A Git learning environment.ASD
->>>>>>> f_Yacho_Init
